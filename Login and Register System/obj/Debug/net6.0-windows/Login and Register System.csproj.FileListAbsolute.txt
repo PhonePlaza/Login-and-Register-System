@@ -1,0 +1,24 @@
+C:\Users\WINDOWS10\Desktop\C#\Login and Register System\Login and Register System\bin\Debug\net6.0-windows\Login and Register System.exe
+C:\Users\WINDOWS10\Desktop\C#\Login and Register System\Login and Register System\bin\Debug\net6.0-windows\Login and Register System.deps.json
+C:\Users\WINDOWS10\Desktop\C#\Login and Register System\Login and Register System\bin\Debug\net6.0-windows\Login and Register System.runtimeconfig.json
+C:\Users\WINDOWS10\Desktop\C#\Login and Register System\Login and Register System\bin\Debug\net6.0-windows\Login and Register System.dll
+C:\Users\WINDOWS10\Desktop\C#\Login and Register System\Login and Register System\bin\Debug\net6.0-windows\Login and Register System.pdb
+C:\Users\WINDOWS10\Desktop\C#\Login and Register System\Login and Register System\obj\Debug\net6.0-windows\Login and Register System.csproj.AssemblyReference.cache
+C:\Users\WINDOWS10\Desktop\C#\Login and Register System\Login and Register System\obj\Debug\net6.0-windows\Login_and_Register_System.Register.resources
+C:\Users\WINDOWS10\Desktop\C#\Login and Register System\Login and Register System\obj\Debug\net6.0-windows\Login and Register System.csproj.GenerateResource.cache
+C:\Users\WINDOWS10\Desktop\C#\Login and Register System\Login and Register System\obj\Debug\net6.0-windows\Login and Register System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOWS10\Desktop\C#\Login and Register System\Login and Register System\obj\Debug\net6.0-windows\Login and Register System.AssemblyInfoInputs.cache
+C:\Users\WINDOWS10\Desktop\C#\Login and Register System\Login and Register System\obj\Debug\net6.0-windows\Login and Register System.AssemblyInfo.cs
+C:\Users\WINDOWS10\Desktop\C#\Login and Register System\Login and Register System\obj\Debug\net6.0-windows\Login and Register System.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS10\Desktop\C#\Login and Register System\Login and Register System\obj\Debug\net6.0-windows\Login and Register System.dll
+C:\Users\WINDOWS10\Desktop\C#\Login and Register System\Login and Register System\obj\Debug\net6.0-windows\refint\Login and Register System.dll
+C:\Users\WINDOWS10\Desktop\C#\Login and Register System\Login and Register System\obj\Debug\net6.0-windows\Login and Register System.pdb
+C:\Users\WINDOWS10\Desktop\C#\Login and Register System\Login and Register System\obj\Debug\net6.0-windows\Login and Register System.genruntimeconfig.cache
+C:\Users\WINDOWS10\Desktop\C#\Login and Register System\Login and Register System\obj\Debug\net6.0-windows\ref\Login and Register System.dll
+C:\Users\WINDOWS10\Desktop\C#\Login and Register System\Login and Register System\obj\Debug\net6.0-windows\Login_and_Register_System.frmLogin.resources
+C:\Users\WINDOWS10\Desktop\C#\Login and Register System\Login and Register System\obj\Debug\net6.0-windows\Login_and_Register_System.Form2.resources
+C:\Users\WINDOWS10\Desktop\C#\Login and Register System\Login and Register System\obj\Debug\net6.0-windows\Login_and_Register_System.frmRegister.resources
+C:\Users\WINDOWS10\Desktop\C#\Login and Register System\Login and Register System\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\WINDOWS10\Desktop\C#\Login and Register System\Login and Register System\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\WINDOWS10\Desktop\C#\Login and Register System\Login and Register System\obj\Debug\net6.0-windows\Login and Register System.csproj.CopyComplete
+C:\Users\WINDOWS10\Desktop\C#\Login and Register System\Login and Register System\obj\Debug\net6.0-windows\Login_and_Register_System.dashboard.resources
